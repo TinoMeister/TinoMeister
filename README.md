@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies & Tools
 
-<div align="center>
+<div align="center">
   <div align="left">
     <h2> 🗣️ Language </h2>
     <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
