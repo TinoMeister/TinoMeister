@@ -45,7 +45,8 @@
 
 
 
-## 🌐 Connect with me:
+## 🗨️ Connect with me:
+[![https://tinomeister.com](🌐)](https://tinomeister.com)
 
 <!--
 **TinoMeister/TinoMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
