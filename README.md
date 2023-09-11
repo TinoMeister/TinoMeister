@@ -6,6 +6,9 @@
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
+[<img title="Website" height="25" src="https://www.svgrepo.com/show/513303/globe-1.svg">](https://tinomeister.com)
+[<img title="Linkedin" height="25" src="https://www.svgrepo.com/show/452051/linkedin.svg">](https://www.linkedin.com/in/tinomeister/)
+
 ## 🔧 Technologies & Tools
 
 <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
@@ -36,10 +39,6 @@
 ### 🔥 Frameworks
 ### 🧰 Environment
 -->
-
-## 🗨️ Connect with me:
-[<img title="Website" height="25" src="https://www.svgrepo.com/show/513303/globe-1.svg">](https://tinomeister.com)
-[<img title="Linkedin" height="25" src="https://www.svgrepo.com/show/452051/linkedin.svg">](https://www.linkedin.com/in/tinomeister/)
 
 ### 📊 Stats
 [![TinoMeister's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinoMeister\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/TinoMeister/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
