@@ -8,32 +8,24 @@
 
 ## 🔧 Technologies & Tools
 
-<p float="left">
-  <div width="33%">
-    <p> 🗣️ Language </p>
-    <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-    <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-    <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-    <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  </div>
+### 🗣️ Language
+<code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+<code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 
-  <div width="33%">
-    <p> 🕸️ Web </p>
-    <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-    <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-    <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-    <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  </div>
-</p>
+### 🕸️ Web
+<code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+<code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 
 ### 📱 Phone
-
 <code><img title="Kotlin" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
 <code><img title="Flutter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
 
 ### 🔥 Frameworks
-
 <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img title=".NetCore" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></code>
 <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
@@ -41,7 +33,6 @@
 <code><img title="Microsoft Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
 
 ### 🧰 Environment
-
 <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 <code><img title="Ubuntu" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img title="RaspberryPi" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"></code>
@@ -52,7 +43,6 @@
 [<img title="Linkedin" height="25" src="https://www.svgrepo.com/show/452051/linkedin.svg">](https://www.linkedin.com/in/tinomeister/)
 
 ### 📊 Stats
-
 [![TinoMeister's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinoMeister\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/TinoMeister/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 <!--
