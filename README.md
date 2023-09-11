@@ -43,11 +43,14 @@
 <code><img title="RaspberryPi" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"></code>
 <code><img title="Windows" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 
-
-
 ## 🗨️ Connect with me:
-[🌐](https://tinomeister.com)
-[<img height="25" src="https://freesvg.org/img/1386749018.png">](https://tinomeister.com)
+[<img title="Website" height="25" src="https://www.svgrepo.com/show/513303/globe-1.svg">](https://tinomeister.com)
+[<img title="Linkedin" height="25" src="https://www.svgrepo.com/show/452051/linkedin.svg">](https://www.linkedin.com/in/tinomeister/)
+[<img title="Mail" height="25" src="https://www.svgrepo.com/show/452213/gmail.svg">](<a href="mailto: tiagooliveira869@gmail.com"></a>)
+
+### 📊 Stats
+
+[![TinoMeister's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinoMeister\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/TinoMeister/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 <!--
 **TinoMeister/TinoMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
