@@ -46,7 +46,6 @@
 ## 🗨️ Connect with me:
 [<img title="Website" height="25" src="https://www.svgrepo.com/show/513303/globe-1.svg">](https://tinomeister.com)
 [<img title="Linkedin" height="25" src="https://www.svgrepo.com/show/452051/linkedin.svg">](https://www.linkedin.com/in/tinomeister/)
-[<img title="Mail" height="25" src="https://www.svgrepo.com/show/452213/gmail.svg">]([<a href="mailto: tiagooliveira869@gmail.com"></a>])
 
 ### 📊 Stats
 
